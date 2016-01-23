@@ -1,9 +1,9 @@
 body {
-	background-color: #000000;
+	background-color: black;
 }
 header {
 	height: 200px;
-	background-color: #ff5b33;
+	background-color: purple;
 	border-radius: 10px;
 	margin-top: -70px;
 }
